@@ -1,0 +1,38 @@
+/*
+Student Name: Shet,Neha Nilcant and Project Name: Project#3  and Due date: Sunday November 20
+
+Database details:
+
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "art";
+*/
+
+
+.changeColor{
+              
+               color: #0099cc !important;
+               background-color: #FFFFFF!important;
+            
+          }
+.textRed{
+    
+    color:	#FF0000;
+}
+/*
+.modal-body img {
+    
+    width:75%;
+}
+*/
+
+.alertText{
+    
+    border-color: red !important;
+}
+
+
+.thumbnailImg  {
+    margin-bottom: 0 !important;
+}
